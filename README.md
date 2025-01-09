@@ -8,6 +8,10 @@
 
 - 📫 联系方式: du.mozzie@outlook.com
 
+### My GitHub Contributions
+
+![](https://du-mozzie.github.io/du-mozzie/github-contribution-grid-snake.svg)
+
 ### My GitHub Stats
 
 <div align="left">
