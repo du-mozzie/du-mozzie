@@ -10,7 +10,7 @@
 
 ### My GitHub Contributions
 
-![](https://du-mozzie.github.io/du-mozzie/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/du-mozzie/du-mozzie/output/github-contribution-grid-snake-dark.svg)
 
 ### My GitHub Stats
 
