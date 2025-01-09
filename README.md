@@ -18,3 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=du-mozzie&show_icons=true" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=du-mozzie&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
+<!--END_SECTION:waka-->
+
+### My GitHub Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
