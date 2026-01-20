@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://du-mozzie.github.io/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=%E5%94%AF%E6%9C%89%E7%83%AD%E7%88%B1%E8%83%BD%E6%8A%B5%E6%BC%AB%E9%95%BF%E5%B2%81%E6%9C%88%EF%BC%81&center=true&size=27%22%20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=%E5%94%AF%E6%9C%89%E7%83%AD%E7%88%B1%E8%83%BD%E6%8A%B5%E6%BC%AB%E9%95%BF%E5%B2%81%E6%9C%88%EF%BC%81&center=true&size=27%22%20" alt="mozzie" />
   </a>
 </div>
 
