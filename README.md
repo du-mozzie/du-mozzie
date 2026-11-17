@@ -6,7 +6,7 @@
 
 ## Hi, 👋 I'm Mozzie
 
-- 📫 联系方式: du.mozzie@outlook.com
+- 📫 联系方式: mozzie.du@gmail.com
 
 ### My GitHub Contributions
 
